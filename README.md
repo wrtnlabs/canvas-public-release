@@ -2,5 +2,5 @@
 
 
 
-# canvas-public-release
+# Wrtn Canvas
 Canvas binary public release repo
